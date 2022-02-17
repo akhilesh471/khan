@@ -1,0 +1,121 @@
+.navbar-nav a
+{
+    color: #FFFFFF99;
+  text-decoration: solid;
+}
+#image
+{
+    height: 100%;
+    width:100%;
+}
+
+.page2o
+{
+
+    height: 42em;
+}
+.page3span{
+    background-color: darkolivegreen;
+}
+.page3text1
+{
+    color: #21242CA3;
+    font-size: 11px;
+}
+.page3text2
+{
+
+}
+.page3text3
+{
+    color: #21242CA3;
+    font-size: 11px;
+}
+.page5
+{
+    font-size:2rem;
+     font-family:Arial, Helvetica, sans-serif;
+     margin-top: 164px;
+
+}
+
+.text
+{
+    margin-left: 107px;
+    font-weight: 600;
+
+
+}
+.footer h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:#8295BA
+}
+.footerwhite
+{
+    color: #FFFFFF;
+}
+.footerbtn
+{
+    position: absolute;
+    top: -32px;
+    left: 79px;
+}
+.usflag{
+    position: relative;
+    top: -28px;
+    left: 76px;
+    width: 1em;
+    height: 1em;
+}
+.ustext
+{
+    position: relative;
+    top: -45px;
+    left: 98px;
+}
+.mexicotext
+{
+    position: relative;
+    top: -92px;
+    margin-left: 146px;
+}
+.mexicoflag
+{
+    width: 1em;
+    height: 1em;
+    position: relative;
+        top: -74px;
+    
+        margin-left: 127px;
+
+}
+.indiatext
+{
+    position: relative;
+    top: -139px;
+    margin-left: 213px;
+}
+
+.indiaflag
+{
+    width: 1em;
+    height: 1em;
+    position: relative;
+    top: -121px;
+    margin-left: 194px;
+}
+.footerline
+{
+    position: relative;
+    top: -132px;
+}
+.copyright
+{
+    position: relative;
+    top: -100px;
+}
+.icn
+{
+    
+}
